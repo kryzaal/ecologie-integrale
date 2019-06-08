@@ -4,17 +4,18 @@ Intro
 * Définition de la décroissance. Et de ce qu'elle n'est pas.
 * Proposition d'un meilleur terme.
 
-I Puissance plutôt que croissance
-* Expliquer en quoi la notion de croissance, liée au PIB, met des oeillères au pouvoir politique et nuit tant à l'environnement qu'à notre puissance. Questions géopolitiques.
-* Lui substituer la notion de puissance, plus souple, plus qualitative et surtout permettant le travail fantôme et l'économie locale en circuit court (la croissance grossit selon le nombre d'échanges marchands, alors que les circuits courts, tout en étant productifs, ont souvent une part non-négligeable de non-marchand)
-* Montrer que ce pouvoir des comptables, cette croissance est consubstantielle à la République et expliquer pourquoi la monarchie, avec la Raison d'Etat est seule garante d'une puissance à la fois efficace et respectueuse de la subsidiarité la plupart du temps.
-
-II Considérations physiques
+I Considérations physiques
 * Expliquer à la Jancovici le rapport entre énergie et économie. Et donc pourquoi l'Ancien Régime était foncièrement décroissant (basse densité énergétique contrainte).
+* Remettre le rapport bénéfices/risques au coeur de la question énergétique. Parler du nucléaire.
+* Ne pas parier sur les sources d'énergie à venir tant qu'elles ne sont pas advenues (à chaque échelle). Panneaux solaires éoliennes : arnaque.
 * Montrer que la question des ressources n'en est pas une tant que l'énergie est abondante (conquête spatiale, chimie, physique moléculaire).
 * ... mais que plus l'énergie va manquer, plus la volonté de croissance va créer des tensions.
-* Remettre le rapport bénéfices/risques au coeur de la question énergétique. Parler du nucléaire.
-* Ne pas parier sur les sources d'énergie à venir tant qu'elles ne sont pas advenues
+
+II Puissance plutôt que croissance (dans l'esprit du politique)
+* Expliquer en quoi la notion de croissance, liée au PIB, met des oeillères au pouvoir politique et nuit tant à l'environnement qu'à notre puissance. Questions géopolitiques. Piège de la notion de développement d'un pays.
+* Lui substituer la notion de puissance, plus souple, plus qualitative et surtout permettant le travail fantôme et l'économie locale en circuit court (la croissance grossit selon le nombre d'échanges marchands, alors que les circuits courts, tout en étant productifs, ont souvent une part non-négligeable de non-marchand)
+* Montrer que ce pouvoir des comptables, cette croissance est consubstantielle à la République et expliquer pourquoi la monarchie, avec la Raison d'Etat est seule garante d'une puissance à la fois efficace et respectueuse de la subsidiarité la plupart du temps.
+* Critique du mythe du progrès
 
 III Une politique de la [décroissance (mettre ici le terme qu'on aura trouvé si on ne garde pas décroissance)]
 * Rappel de la loi de Goodhart, condamnation de la croissance, du PIB, du Progrès et de toute vision comptable de la politique.
