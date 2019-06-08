@@ -1,16 +1,24 @@
-Objectif de cette partie: Il a été acté lors du congrès des cadres que l’Action française prenait parti pour la décroissance. Cette décision est logique est s’inscrit dans notre critique du mythe du progrès, notre volonté de défendre nos terroirs contre l’industrialisation et notre refus d’une société du spectacle et de la consommation. Cependant, nous ne pouvons nous contentez de reprendre tel quel la décroissance telle quelle est théorisé par des penseurs contemporains. D’abord, parce que la plupart d’être eux font l’économie d’une pensée nationaliste, jouant assez artificiellement l’opposition entre le local et le global. Ensuite, parce qu’aucun d’entre eux ne prends publiquement position pour la question royale. Au mieux, nous avons le cas polémique Pentti Linkola qui préconise non pas le roi mais l’écofascisme. Cela est une bonne chose, car cela signifie que nous pouvons amener quelques choses de neuf aux débats de la décroissance et apporter une conception plus robuste et moins naïve. A terme de cette partie il faut que les militants est compris que la décroissance n’est pas une croissance négative illimitée, que l’on ne pourra pas y couper court, mais que cela signifie aussi que cela doit être fait à certaine condition.
+Objectif de cette partie: Il a été acté lors du congrès des cadres que l’Action française prenait parti pour la décroissance. Cette décision est logique est s’inscrit dans notre critique du mythe du progrès, notre volonté de défendre nos terroirs contre l’industrialisation et notre refus d’une société du spectacle et de la consommation. Cependant, nous ne pouvons nous contenter de reprendre tel quel la décroissance telle quelle est théorisé par des penseurs contemporains. D’abord, parce que la plupart d’être eux font l’économie d’une pensée nationaliste, jouant assez artificiellement l’opposition entre le local et le global. Ensuite, parce qu’aucun d’entre eux ne prends publiquement position pour la question royale. Au mieux, nous avons le cas polémique Pentti Linkola qui préconise non pas le roi mais l’écofascisme. Cela est une bonne chose, car cela signifie que nous pouvons amener quelques choses de neuf aux débats de la décroissance et apporter une conception plus robuste et moins naïve. A terme de cette partie il faut que les militants aient compris que la décroissance n’est pas une croissance négative illimitée, que l’on ne pourra pas y couper court, mais que cela signifie aussi que cela doit être fait à certaine condition.
 
-I La Croissance au piloris ?
-1) La question de la disparition des ressources
-2) Le mythe du progrès illimité
-3) Pauvreté et limite: Pourquoi l’ancien régime était foncièrement décroissant
+Intro
+* Définition de la décroissance. Et de ce qu'elle n'est pas.
+* Proposition d'un meilleur terme.
 
-II La décroissance immédiatement
-1) Pour sortir des clichés: définition, question du mot “décroissance”
-2) La Décroissance contre le développpement durable
-3) Vers un ordre du monde unifié (de la défense de la ressource naturelle à la nature des peuples)
+I Considérations physiques
+* Expliquer à la Jancovici le rapport entre énergie et économie. Et donc pourquoi l'Ancien Régime était foncièrement décroissant (basse densité énergétique contrainte).
+* Remettre le rapport bénéfices/risques au coeur de la question énergétique. Parler du nucléaire.
+* Ne pas parier sur les sources d'énergie à venir tant qu'elles ne sont pas advenues (à chaque échelle). Panneaux solaires éoliennes : arnaque.
+* Montrer que la question des ressources n'en est pas une tant que l'énergie est abondante (conquête spatiale, chimie, physique moléculaire).
+* ... mais que plus l'énergie va manquer, plus la volonté de croissance va créer des tensions.
 
-III Limites de la limite
-1) Puissance, pouvoir et croissance (La question géopolitique)
-2) Impossibilité de la décroissance en République
-3) La question nucléaire: Faut-il abandonner cette force d’autonomie énergétique et militaire ?
+II Puissance plutôt que croissance (dans l'esprit du politique)
+* Expliquer en quoi la notion de croissance, liée au PIB, met des oeillères au pouvoir politique et nuit tant à l'environnement qu'à notre puissance. Questions géopolitiques. Piège de la notion de développement d'un pays.
+* Lui substituer la notion de puissance, plus souple, plus qualitative et surtout permettant le travail fantôme et l'économie locale en circuit court (la croissance grossit selon le nombre d'échanges marchands, alors que les circuits courts, tout en étant productifs, ont souvent une part non-négligeable de non-marchand)
+* Montrer que ce pouvoir des comptables, cette croissance est consubstantielle à la République et expliquer pourquoi la monarchie, avec la Raison d'Etat est seule garante d'une puissance à la fois efficace et respectueuse de la subsidiarité la plupart du temps.
+* Critique du mythe du progrès
+
+III Une politique de la [décroissance (mettre ici le terme qu'on aura trouvé si on ne garde pas décroissance)]
+* Rappel de la loi de Goodhart, condamnation de la croissance, du PIB, du Progrès et de toute vision comptable de la politique.
+* La subsidiarité, équilibre fragile mais nécessaire
+* La nécessaire réappropriation du temps. Et sa définition. Condamnation du temps linéaire vers le meilleur. Ecoulement du temps comme nombre et distance des intéractions extérieures.
+* Le roi, protecteur de nos anarchies locales, garant de notre puissance, acteur d'une coopération écologique internationale respectueuse des nations.
